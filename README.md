@@ -6,6 +6,6 @@ Stuff for Web Design
   
 [Course Description](https://rendomel000.github.io/Spider-Web/Course-Description)
 
-[Syllabus](https://rendomel000.github.io/Spider-Web/What-Is-Web-Design)
+[What is Web Design?](https://rendomel000.github.io/Spider-Web/What-Is-Web-Design)
   
-[Course Description](https://rendomel000.github.io/Spider-Web/People-of-Interest.md)
+[People of Interest?](https://rendomel000.github.io/Spider-Web/People-of-Interest.md)
