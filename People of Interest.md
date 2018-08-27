@@ -1,1 +1,2 @@
-
+# Tim Berners-Lee
+Tim Berners-Lee, also known as Tim BL, is often credited as the British scientist who had invented the World Wide Web. Wanting to have the ability to share information over long-distance while working with the French Counseil Europeen pour la Recherche Nucleaire (or CERN), Tim BL created the software *Enquire*, a program that relied on both coding and programming to send files over private servers. In 1989, after returning to work for CERN, Tim BL continued to develop on the concept of sharing data. It soon opened to the public, and the first ever website [World Wide Web](http://info.cern.ch/hypertext/WWW/TheProject.html) was made.
