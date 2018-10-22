@@ -10,3 +10,5 @@ Started in 11th Grade.
 [What is Web Design?](https://rendomel000.github.io/Spider-Web/What-Is-Web-Design)
   
 [People of Interest?](https://rendomel000.github.io/Spider-Web/People-of-Interest.md)
+
+[Assignments](https://rendomel000.github.io/Spider-Web/Assignments.md)
