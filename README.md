@@ -1,5 +1,6 @@
 # spider-web
-Stuff for Web Design  
+Stuff for the Web Design course at Westchester Academy for International Studies.
+Started in 11th Grade.
   
   
 [Syllabus](https://rendomel000.github.io/Spider-Web/Syllabus)
